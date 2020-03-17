@@ -1,0 +1,10 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "description": "Tutorial for grpc",
+  "main": "index.js",
+  "repository": "https://github.com/mihaiblandu/grpc-tutorial.git",
+  "author": "mihaiblandu",
+  "license": "MIT",
+  "private": false
+}
